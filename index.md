@@ -9,7 +9,7 @@ Stephan’s Language Consultancy offers the following services in English:
 * Transcribing
 * Text production
 
-In addition, Stephan’s Language Consultancy provides translations into English from Norwegian (bokmål or nynorsk) and French.
+In addition, Stephan’s Language Consultancy provides translations into English from Norwegian (Bokmål or Nynorsk) and French.
 
 **Contact us today for an obligation free quote!**
 

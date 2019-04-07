@@ -4,10 +4,10 @@
 ---
 # Services
 Stephan’s Language Consultancy offers the following services in English:
-* Copy editing
-* Proofreading
-* Transcribing
-* Text production
+* copy editing
+* proofreading
+* transcribing
+* text production
 
 In addition, Stephan’s Language Consultancy provides translations into English from Norwegian (Bokmål or Nynorsk) and French.
 

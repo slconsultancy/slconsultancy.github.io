@@ -17,7 +17,8 @@ title: Stephan's Language Consultancy
 logo: /media/logo.svg
 email: contact@slconsultancy.no
 description: >- # this means to ignore newlines until "baseurl:"
-  Stephan’s Language Consultancy provides services in proofreading, copy editing, translation, transcribing and text production.
+  Stephan’s Language Consultancy provides services in proofreading,
+  copy editing, translation, transcribing and text production.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: slconsultancy3
@@ -39,4 +40,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 include: [".well-known"]
